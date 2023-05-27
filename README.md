@@ -5,8 +5,8 @@ You will need to setup the USB remapping yourself (UTBMap.kext).
 
 Working:
 Wifi for Intel Cards (Intel AX200)
-Ethernet for Intel NIC (the one that is in the B460-F)
-Some USB ports
+,Ethernet for Intel NIC (the one that is in the B460-F)
+,Some USB ports
 
 Broken: Intel Bluetooth (Intel AX200)
 
